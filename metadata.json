@@ -1,0 +1,5 @@
+{
+  "name": "YTP AI Generator",
+  "description": "An AI-powered application that takes a YouTube URL and generates a 'YouTube Poop' style video using Gemini API.",
+  "requestFramePermissions": []
+}
